@@ -1,0 +1,7 @@
+This repository contains scripts used to investigate the quality of Trinity transcriptome assemblies.
+
+The files "analysis.py" and "assemble_evaluate.py" are the two main scripts containing most of the logic.
+The Shell script "run_analysis" is used to submit an analysis batch to a computer cluster using the Slurm Workload Manager.
+
+Author: R. Holsapple (raymond.holsapple@gmail.com)
+Last update: 4-14-2017
