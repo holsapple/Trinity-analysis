@@ -1,0 +1,56 @@
+# 01 - Homo sapiens olfactory transcriptome - ERR956740 - 104,148,640 : 100
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR956/ERR956740/ERR956740_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR956/ERR956740/ERR956740_2.fastq.gz
++
+# 02 - Schistosoma mansoni (Puerto Rican strain) - ERR1674585 - 38,971,434 : 100
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR167/005/ERR1674585/ERR1674585_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR167/005/ERR1674585/ERR1674585_2.fastq.gz
++
+# 03 - Zonotrichia leucophrys hypothalamus - SRR1199463 - 80,114,856 : 200
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR119/003/SRR1199463/SRR1199463_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR119/003/SRR1199463/SRR1199463_2.fastq.gz
++
+# 04 - Atriplex lentiformis leaf tissues - SRR1041724 - 35,511,645 : 202
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR104/004/SRR1041724/SRR1041724_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR104/004/SRR1041724/SRR1041724_2.fastq.gz
++
+# 05 - Pholcus phalangioides whole body transcriptome - SRR3144082 - 58,019,035 : 100
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR314/002/SRR3144082/SRR3144082_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR314/002/SRR3144082/SRR3144082_2.fastq.gz
++
+# 06 - Orbicella faveolata (changes in gene expression during and after bleaching) - SRR1636936 - 33,446,863 : 163
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR163/006/SRR1636936/SRR1636936_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR163/006/SRR1636936/SRR1636936_2.fastq.gz
++
+# 07 - Picea engelmannii transcriptome - SRR1511015 - 130,780,127 : 202
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR151/005/SRR1511015/SRR1511015_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR151/005/SRR1511015/SRR1511015_2.fastq.gz
++
+# 08 - Oryctolagus cuniculus aorta - SRR1789336 - 30,758,797 : 202
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR178/006/SRR1789336/SRR1789336_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR178/006/SRR1789336/SRR1789336_2.fastq.gz
++
+# 09 - Mus Musculus liver - SRR2086412 - 54,054,001 : 202
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR208/002/SRR2086412/SRR2086412_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR208/002/SRR2086412/SRR2086412_2.fastq.gz
++
+# 10 - Danio rerio embryos - SRR2473235 - 55,823,019 : 102
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR247/005/SRR2473235/SRR2473235_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR247/005/SRR2473235/SRR2473235_2.fastq.gz
++
+# 11 - Ovis aries conceptus-derived extracellular vesicles - SRR3002682 - 35,056,550 : 101
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR300/002/SRR3002682/SRR3002682_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR300/002/SRR3002682/SRR3002682_2.fastq.gz
++
+# 12 - Marmota monax liver - SRR2136988 - 36,547,710 : 100
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR213/008/SRR2136988/SRR2136988_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR213/008/SRR2136988/SRR2136988_2.fastq.gz
++
+# 13 - Bos taurus - SRR3310946 - 32,307,779 : 202
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR331/006/SRR3310946/SRR3310946_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR331/006/SRR3310946/SRR3310946_2.fastq.gz
++
+# 14 - Nicotiana tabacum cultivar - SRR3499127 - 30,064,608 : 300
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR349/007/SRR3499127/SRR3499127_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR349/007/SRR3499127/SRR3499127_2.fastq.gz
++

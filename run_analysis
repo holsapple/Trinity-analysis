@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --output=analysis.done
+#SBATCH --mail-user rh1054@wildcats.unh.edu
+#SBATCH --mail-type=ALL
+#SBATCH --mem=0
+#SBATCH -N1
+
+srun python3 assemble_evaluate.py
